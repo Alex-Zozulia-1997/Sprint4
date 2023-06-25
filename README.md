@@ -5,7 +5,7 @@ To use it you will need to have an active subscription for Smartproxy SM API.
 
 Expected usage of requests: on each profile link with at least 12 public posts - you should expect 13 API calls. 
 
-#How to use it?
+# How to use it?
 0. Install Python from here https://www.python.org/downloads/
 1. You will need to download the files in this repository 
 2. Open the Terminal. You would want to navigate to the needed folder using “cd”-change directory until you are in the right one. Read this, if unsure how to do it - https://gomakethings.com/navigating-the-file-system-with-terminal/. 
